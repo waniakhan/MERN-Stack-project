@@ -4,7 +4,7 @@ Our ZM MERN Stack E-commerce initiative modernizes Point-of-Sale systems. Powere
 
 
 ## Technologies Used
-1.  **Frontend:** React,Material UI
+1.  **Frontend:** React, Bootstrap 
 2. **Backend:** Express.js, Node.js
 3. **Database:** MongoDB
 
