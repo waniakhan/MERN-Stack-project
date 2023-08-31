@@ -17,34 +17,6 @@ Our ZM MERN Stack E-commerce initiative modernizes Point-of-Sale systems. Powere
 3. **Database:** MongoDB
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
-
-
 ##  Live URL
 
 
