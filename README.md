@@ -3,8 +3,11 @@
 Our ZM MERN Stack E-commerce initiative modernizes Point-of-Sale systems. Powered by MongoDB, Express.js, React, and Node.js, it delivers seamless shopping. Users easily explore and order while our tech ensures efficient data handling, smooth communication, and dynamic interfaces. This redefines experiences, optimizing operations for modern enterprises.
 
   There are three roles in this website:
-    1. the Guest role in which guest can only see the home page 
+  
+    1. The Guest role in which guest can only see the home page. 
+    
     2. The user Role in which user can add the products in to the cart.
+    
     3. The admin role in which you go the admin page.
 
 
